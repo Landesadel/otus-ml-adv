@@ -1,4 +1,5 @@
 hw3/catboost_info/
-hw3/datasets/
+*/datasets/
 test/
 .idea/
+otus_venv
